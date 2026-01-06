@@ -1,3 +1,4 @@
 cooderl/wewe-rss
 mayanghua/instock
 jefferyhjw/bilinote-frontend
+docker.n8n.io/n8nio/n8n
